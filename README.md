@@ -1,5 +1,12 @@
-### Hi there 👋
+# Hello!
 
+You've found my GitHub. Congratulations!
+
+My completed (or nearly completed) projects will be public and viewable; however, my in-progress/unorganized work is still private until I get it cleaned up. Feel free to take a tour around my work if you're interested.
+
+If desired, additional information can be found at www.maxdesantis.me.
+
+Contact me at desantis.max.a@gmail.com or max.desantis@okstate.edu
 <!--
 **MaxDeSantis/MaxDeSantis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
