@@ -1,7 +1,3 @@
 # Hello!
 
-I make robots and simulations.
-
-desantis.max.a@gmail.com
-
-[Portfolio Website](https://maxdesantis.me)
+I make robots, games, and simulations.
